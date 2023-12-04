@@ -18,6 +18,8 @@
     "prettier": "^2.8.8"
   },
   "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "cli-table3": "^0.6.3",
     "node": "^21.2.0"
   }
 }
