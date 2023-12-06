@@ -3,9 +3,11 @@ import { cubeConundrum } from './Day2/cubeConundrum.js';
 import { gearRatios } from './Day3/gearRatios.js';
 import { scratchcards } from './Day4/scratchcards.js';
 import { fertilizer } from './Day5/fertilizer.js';
+import { waitForIt } from './Day6/waitForIt.js';
 
 // trebuchet();
 // cubeConundrum();
 // gearRatios();
 // scratchcards();
-fertilizer();
+// fertilizer();
+waitForIt();
