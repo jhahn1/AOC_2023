@@ -4,10 +4,12 @@ import { gearRatios } from './Day3/gearRatios.js';
 import { scratchcards } from './Day4/scratchcards.js';
 import { fertilizer } from './Day5/fertilizer.js';
 import { waitForIt } from './Day6/waitForIt.js';
+import { camelCards } from './Day7/camelCards.js';
 
 // trebuchet();
 // cubeConundrum();
 // gearRatios();
 // scratchcards();
 // fertilizer();
-waitForIt();
+// waitForIt();
+camelCards();
