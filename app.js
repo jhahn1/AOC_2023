@@ -6,6 +6,7 @@ import { fertilizer } from './Day5/fertilizer.js';
 import { waitForIt } from './Day6/waitForIt.js';
 import { camelCards } from './Day7/camelCards.js';
 import { hauntedWasteland } from './Day8/hauntedWasteland.js';
+import { mirageMaintenance } from './Day9/mirageMaintenance.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -14,4 +15,5 @@ import { hauntedWasteland } from './Day8/hauntedWasteland.js';
 // fertilizer();
 // waitForIt();
 // camelCards();
-hauntedWasteland();
+// hauntedWasteland();
+mirageMaintenance();
