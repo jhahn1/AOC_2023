@@ -7,6 +7,7 @@ import { waitForIt } from './Day6/waitForIt.js';
 import { camelCards } from './Day7/camelCards.js';
 import { hauntedWasteland } from './Day8/hauntedWasteland.js';
 import { mirageMaintenance } from './Day9/mirageMaintenance.js';
+import { pipeMaze } from './Day10/pipeMaze.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -16,4 +17,5 @@ import { mirageMaintenance } from './Day9/mirageMaintenance.js';
 // waitForIt();
 // camelCards();
 // hauntedWasteland();
-mirageMaintenance();
+// mirageMaintenance();
+pipeMaze();
