@@ -8,6 +8,7 @@ import { camelCards } from './Day7/camelCards.js';
 import { hauntedWasteland } from './Day8/hauntedWasteland.js';
 import { mirageMaintenance } from './Day9/mirageMaintenance.js';
 import { pipeMaze } from './Day10/pipeMaze.js';
+import { cosmicExpansion } from './Day11/cosmicExpansion.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -18,4 +19,5 @@ import { pipeMaze } from './Day10/pipeMaze.js';
 // camelCards();
 // hauntedWasteland();
 // mirageMaintenance();
-pipeMaze();
+// pipeMaze();
+cosmicExpansion();
