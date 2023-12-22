@@ -10,6 +10,7 @@ import { mirageMaintenance } from './Day9/mirageMaintenance.js';
 import { pipeMaze } from './Day10/pipeMaze.js';
 import { cosmicExpansion } from './Day11/cosmicExpansion.js';
 import { hotSprings } from './Day12/hotSprings.js';
+import { pointOfIncidence } from './Day13/pointOfIncidence.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -22,4 +23,5 @@ import { hotSprings } from './Day12/hotSprings.js';
 // mirageMaintenance();
 // pipeMaze();
 // cosmicExpansion();
-hotSprings();
+// hotSprings();
+pointOfIncidence();
