@@ -11,6 +11,7 @@ import { pipeMaze } from './Day10/pipeMaze.js';
 import { cosmicExpansion } from './Day11/cosmicExpansion.js';
 import { hotSprings } from './Day12/hotSprings.js';
 import { pointOfIncidence } from './Day13/pointOfIncidence.js';
+import { reflectorDish } from './Day14/reflectorDish.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -24,4 +25,5 @@ import { pointOfIncidence } from './Day13/pointOfIncidence.js';
 // pipeMaze();
 // cosmicExpansion();
 // hotSprings();
-pointOfIncidence();
+// pointOfIncidence();
+reflectorDish();
