@@ -12,6 +12,7 @@ import { cosmicExpansion } from './Day11/cosmicExpansion.js';
 import { hotSprings } from './Day12/hotSprings.js';
 import { pointOfIncidence } from './Day13/pointOfIncidence.js';
 import { reflectorDish } from './Day14/reflectorDish.js';
+import { lensLibrary } from './Day15/lensLibrary.js';
 
 // trebuchet();
 // cubeConundrum();
@@ -26,4 +27,5 @@ import { reflectorDish } from './Day14/reflectorDish.js';
 // cosmicExpansion();
 // hotSprings();
 // pointOfIncidence();
-reflectorDish();
+// reflectorDish();
+lensLibrary();
